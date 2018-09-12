@@ -63,10 +63,6 @@ for filename in xml_sorted_array:
          child.text = str(new_width[wx])
          wx += 1    
      root.write(filename)    
-#     for child in classes:
-#         xml_height = str(100000)
-#     print(xml_height)
 
-     #write resolution to XML
 
 
